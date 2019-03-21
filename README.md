@@ -42,3 +42,19 @@ Interesting quotes that I like
 
 > ''We had one month in which we lost more money than the firm made in any prior year,'' he remembers. ''But most people had internalized this sort of thing and the senior management, particularly, was very good about saying, Look we understand once in a while things like this will happen. It doesn't mean people weren't nervous because they were -- hell, I was nervous.''
 
+## March
+
+#### [Joel on Twitter](https://twitter.com/jhooks/status/1108395363596038144)
+
+> Follow @jhooks
+More
+Emailing busy people I follow these guidelines:
+
+🦖 get to the point
+✂️ edit 
+🥚 keep it simple
+🔮 link to more context/details
+📅 stick to a single call-to-action (often Calendly)
+✅ make it easy to say “yes”
+🌀 offer permission to ignore
+♻️ follow up (logarithmically)
